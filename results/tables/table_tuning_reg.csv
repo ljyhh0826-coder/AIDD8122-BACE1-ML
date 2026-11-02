@@ -1,0 +1,7 @@
+model,representation,default RMSE,tuned RMSE,delta
+kNN,FCFP4,0.813 ± 0.086,0.830 ± 0.092,-0.017
+LR,FCFP4,0.795 ± 0.056,0.790 ± 0.044,+0.005
+RF,AtomPair,0.759 ± 0.047,0.772 ± 0.044,-0.013
+SVM,ECFP4,0.759 ± 0.073,0.733 ± 0.027,+0.026
+XGBoost,AtomPair,0.742 ± 0.054,0.733 ± 0.061,+0.009
+MLP,FCFP4,0.765 ± 0.033,0.757 ± 0.043,+0.008

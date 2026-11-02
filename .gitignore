@@ -1,0 +1,5 @@
+﻿__pycache__/
+*.pyc
+data/processed/features/
+.ipynb_checkpoints/
+results/*.bak
